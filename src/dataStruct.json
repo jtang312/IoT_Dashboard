@@ -1,0 +1,60 @@
+{
+    "content":[
+        {
+            "_badge": {
+                "name": "Energy",
+                "value": "94.55",
+                "unit": "kWh" 
+            }
+        },
+        {
+            "_badge": {
+                "name": "Idle Power (Avg)",
+                "value": "3.37",
+                "unit": "kW" 
+            }
+        },
+        {
+            "_badge": {
+                "name": "Current Charged (Max)",
+                "value": "463",
+                "unit": "A" 
+            }
+        },
+        {
+            "_badge": {
+                "name": "Power Charged (Max)",
+                "value": "251.41",
+                "unit": "kW" 
+            }
+        },
+        {
+            "_badge": {
+                "name": "Energy Charged",
+                "value": "38.6",
+                "unit": "kWh" 
+            }
+        },
+        {
+            "_badge": {
+                "name": "Current Discharged (Max)",
+                "value": "476.6",
+                "unit": "A" 
+            }
+        },
+        {
+            "_badge": {
+                "name": "Power Discharged (Max)",
+                "value": "252.11",
+                "unit": "kW" 
+            }
+        },
+        {
+            "_badge": {
+                "name": "Energy Discharged",
+                "value": "133.15",
+                "unit": "kWh" 
+            }
+        }
+    ]
+}
