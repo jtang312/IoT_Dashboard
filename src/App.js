@@ -72,7 +72,7 @@ class App extends React.Component {
               padding: 5,
             }}>
                 <img style={{width: '30%', maxHeight: '50vh'}}src={'https://community-assets.home-assistant.io/original/3X/b/f/bfe10a1e78f3ac29f94f2dcba139412c70bd7858.jpeg'} alt={'NA'}/>
-                <div id="map" style={{height: '60vh', width: '40vh'}}>map</div>
+                <div id="map" style={{height: '60vh', width: '40vh'}}></div>
                 <img style={{width: '30%', maxHeight: '50vh'}}src={'https://community-assets.home-assistant.io/original/3X/b/f/bfe10a1e78f3ac29f94f2dcba139412c70bd7858.jpeg'} alt={'NA'}/>
             </Box>
             

@@ -24,8 +24,7 @@ var Badge = (props) => {
           display: 'flex',
           maxWidth: '30%'
         }}>
-          <Typography>{props.item.value}</Typography>
-          <Typography>{props.item.unit}</Typography>
+          <Typography>{props.item.value} {props.item.unit}</Typography>
         </Box>
       </Paper>
     </>
